@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @csantosh140
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-csantosh140/csantosh140 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+👨‍💻 C. Santosh | Computer Science Engineering Student
+
+🚀 Aspiring AI & Cybersecurity Engineer
+
+💡 Passionate about building AI-powered applications, intelligent agents, and secure web systems.
+
+🛠️ Tech Stack: Python | Java | MongoDB | MySQL
+
+🤖 Interests: Artificial Intelligence | Generative AI | RAG | Agentic AI | Machine Learning | Cybersecurity | Ethical Hacking
+
+🔐 Building projects like Suraksha AI, 
+Studymate AI & RAG AI Agent.
+
+🌱 Always learning, building, and exploring new technologies.
+
+📫 Let's connect and build something innovative!
